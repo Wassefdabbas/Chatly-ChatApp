@@ -11,7 +11,7 @@ A full-stack web application built with the MERN stack that integrates the power
 
 *   **Secure User Authentication:** Users can create an account and log in to a persistent session, with all user data managed by my custom-built backend.
 *   **Robust Chat Functionality:** Integrated Stream's Chat API for a powerful messaging experience, including real-time messages and live "typing..." indicators.
-*   **High-Quality Video Calling:** Leveraged the Stream Video API to implement seamless, one-on-one video calls directly within the application.
+*   **Video Calling:** Leveraged the Stream Video API to implement seamless, one-on-one video calls directly within the application.
 *   **Fully Deployed:** The application is deployed on Render, making it publicly accessible and demonstrating modern deployment practices.
 
 ---
